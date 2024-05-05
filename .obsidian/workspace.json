@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "317b5f33d90f4559",
+    "type": "split",
+    "children": [
+      {
+        "id": "91e196f5b8eb42ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b40c37bcefc98af",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "b3243de4c2c9b08f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e7854ba4548f4528",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f362064eea94d5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7365da9a213186d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "026d581575f88550",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7b46ca8d020561c4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 356.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "1be7327e2f0322b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "84be8a2de5a5f129",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "711a090819086a36",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9272199c09b41ea4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "98289aa8facafe3a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "09d59a7d7fb1e09a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b3243de4c2c9b08f",
+  "lastOpenFiles": [
+    "Vulnerability Research/Frontrunning Theory.md",
+    "PoC/src/MockOracle.sol",
+    "PoC/src/Market.sol",
+    "PoC/src/Maket.sol",
+    "PoC/src/cvxCRVMarket.sol",
+    "PoC/test/PoC.t.sol",
+    "PoC/lib/forge-std/test/mocks/MockERC721.t.sol",
+    "PoC/lib/forge-std/test/mocks/MockERC20.t.sol",
+    "PoC/lib/forge-std/test/fixtures/test.toml",
+    "PoC/lib/forge-std/test/fixtures/test.json",
+    "PoC/lib/forge-std/test/fixtures/broadcast.log.json",
+    "PoC/lib/forge-std/README.md",
+    "PoC/README.md",
+    "Vulnerability Research/VR Review.md",
+    "Vulnerability Research/Vulnerability Analysis.md",
+    "Vulnerability Research/cvxCRV Market.md",
+    "Immunefi/Assets In Scope.md",
+    "Intelligence/FiRM.md",
+    "Intelligence/Audit Reports.md",
+    "Intelligence/Twitter Feed.md",
+    "Intelligence/Nomoi.md",
+    "Intelligence/Github.md",
+    "Immunefi/Inverse Finance Overview.md",
+    "Immunefi/Out of Scope & Rules.md",
+    "Immunefi/Primacy of Impact.md",
+    "Immunefi/Proof of Concept (PoC) Requirements.md",
+    "Analysis Board.canvas",
+    "Immunefi/Rewards by Threat Level.md",
+    "Immunefi/Reward Payment Terms.md",
+    "cvxCRV Market.md",
+    "Immunefi/Impacts In Scope.md",
+    "Immunefi/Immunefi Vulnerability Severity Classification System V2.3.md",
+    "Inverse Finance Overview.md",
+    "Immunefi Vulnerability Severity Classification System V2.3.md",
+    "Assets In Scope.md",
+    "Impacts In Scope.md"
+  ]
+}
