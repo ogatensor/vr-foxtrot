@@ -11,12 +11,8 @@
             "id": "9b40c37bcefc98af",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Immunefi/Assets In Scope.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immunefi/Assets In Scope.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Immunefi/Assets In Scope.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Immunefi/Assets In Scope.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,21 +141,23 @@
   },
   "active": "9b40c37bcefc98af",
   "lastOpenFiles": [
-    "Vulnerability Research/VR Review 2.md",
-    "PoC/src/Oracle.sol",
-    "PoC/src/ConvexCurveEscrow.sol",
-    "PoC/src/Fed.sol",
-    "PoC/src/BorrowController.sol",
+    "lib",
     "Immunefi/Assets In Scope.md",
+    "PoC/package-lock.json",
+    "PoC/package.json",
+    "PoC/node_modules/@openzeppelin/contracts/finance/VestingWallet.sol",
+    "PoC/node_modules/@openzeppelin/contracts/finance",
+    "PoC/node_modules/@openzeppelin/contracts/vendor/compound/ICompoundTimelock.sol",
+    "PoC/node_modules/@openzeppelin/contracts/vendor/compound",
+    "PoC/node_modules/@openzeppelin/contracts/vendor",
+    "PoC/node_modules/@openzeppelin/contracts/governance/utils/Votes.sol",
+    "PoC/node_modules/@openzeppelin/contracts/governance/utils/IVotes.sol",
+    "PoC/node_modules/@openzeppelin/contracts/governance/extensions/GovernorVotesQuorumFraction.sol",
+    "PoC/node_modules/@openzeppelin/contracts/README.md",
+    "Vulnerability Research/VR Review 2.md",
     "BorrowController.md",
     "setGov(address _gov).md",
-    "PoC/test/CVXCRVMarketTest.sol",
-    "PoC/abis/cvxCRVMarket.json",
-    "PoC/abis",
     "Vulnerability Research/Frontrunning Theory.md",
-    "PoC/src/MockOracle.sol",
-    "PoC/src/Market.sol",
-    "PoC/src/Maket.sol",
     "PoC/lib/forge-std/README.md",
     "PoC/README.md",
     "Vulnerability Research/VR Review.md",
@@ -183,8 +177,6 @@
     "Immunefi/Reward Payment Terms.md",
     "cvxCRV Market.md",
     "Immunefi/Impacts In Scope.md",
-    "Immunefi/Immunefi Vulnerability Severity Classification System V2.3.md",
-    "Inverse Finance Overview.md",
-    "Immunefi Vulnerability Severity Classification System V2.3.md"
+    "Immunefi/Immunefi Vulnerability Severity Classification System V2.3.md"
   ]
 }
