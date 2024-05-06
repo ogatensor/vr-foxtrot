@@ -11,20 +11,15 @@
             "id": "9b40c37bcefc98af",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "b3243de4c2c9b08f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Immunefi/Assets In Scope.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Immunefi/Assets In Scope.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Immunefi/Assets In Scope.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Immunefi/Assets In Scope.md"
+              }
             }
           }
         ]
@@ -148,25 +147,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b3243de4c2c9b08f",
+  "active": "9b40c37bcefc98af",
   "lastOpenFiles": [
+    "Vulnerability Research/VR Review 2.md",
+    "PoC/src/Oracle.sol",
+    "PoC/src/ConvexCurveEscrow.sol",
+    "PoC/src/Fed.sol",
+    "PoC/src/BorrowController.sol",
+    "Immunefi/Assets In Scope.md",
+    "BorrowController.md",
+    "setGov(address _gov).md",
+    "PoC/test/CVXCRVMarketTest.sol",
+    "PoC/abis/cvxCRVMarket.json",
+    "PoC/abis",
     "Vulnerability Research/Frontrunning Theory.md",
     "PoC/src/MockOracle.sol",
     "PoC/src/Market.sol",
     "PoC/src/Maket.sol",
-    "PoC/src/cvxCRVMarket.sol",
-    "PoC/test/PoC.t.sol",
-    "PoC/lib/forge-std/test/mocks/MockERC721.t.sol",
-    "PoC/lib/forge-std/test/mocks/MockERC20.t.sol",
-    "PoC/lib/forge-std/test/fixtures/test.toml",
-    "PoC/lib/forge-std/test/fixtures/test.json",
-    "PoC/lib/forge-std/test/fixtures/broadcast.log.json",
     "PoC/lib/forge-std/README.md",
     "PoC/README.md",
     "Vulnerability Research/VR Review.md",
     "Vulnerability Research/Vulnerability Analysis.md",
     "Vulnerability Research/cvxCRV Market.md",
-    "Immunefi/Assets In Scope.md",
     "Intelligence/FiRM.md",
     "Intelligence/Audit Reports.md",
     "Intelligence/Twitter Feed.md",
@@ -183,8 +185,6 @@
     "Immunefi/Impacts In Scope.md",
     "Immunefi/Immunefi Vulnerability Severity Classification System V2.3.md",
     "Inverse Finance Overview.md",
-    "Immunefi Vulnerability Severity Classification System V2.3.md",
-    "Assets In Scope.md",
-    "Impacts In Scope.md"
+    "Immunefi Vulnerability Severity Classification System V2.3.md"
   ]
 }

@@ -93,12 +93,6 @@ Regarding the loose restrictions on onlyINVEscrow, the issue was resolved by har
 
 ![](https://resource-cdn.sider.ai/0b6ec774f7a48fb7cb0c20546955f6ab.svg)
 
-1
-
-2
-
-3
-
 
 can you explain this some more
 
